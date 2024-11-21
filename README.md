@@ -1,3 +1,4 @@
+# Stock Market Trend Prediction using Deep Neural Network via Chart Analysis: A Practical Method or a Myth?
 This repository, is the source code for "Stock Market Trend Prediction using Deep Neural Network via Chart Analysis:
 A Practical Method or a Myth?"
 Here you can read the preprint version of this research:
