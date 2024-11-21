@@ -6,6 +6,6 @@ https://www.researchgate.net/publication/383871219_Stock_Market_Trend_Prediction
 ![{675A2456-B6EC-4DD9-8052-6CA59423BD99}](https://github.com/user-attachments/assets/b61b2b3f-e949-486e-bde6-635942929c1e)
 
 ## This project contains:
-- LTSM Networks
+- LSTM Networks
 - Convolutional Networks
 - Transformer based Networks
