@@ -9,3 +9,4 @@ https://www.researchgate.net/publication/383871219_Stock_Market_Trend_Prediction
 - LSTM Networks
 - Convolutional Networks
 - Transformer based Networks
+- MLP Predictors
